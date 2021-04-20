@@ -1,0 +1,7 @@
+﻿Ad,Miktar,Bileşen
+"U1",1," Arduino Uno R3"
+"U6",1," LCD 16 x 2 "
+"Rpot2",1,"250 kΩ Potansiyometre"
+"R1",1,"220 Ω Rezistör"
+"PIR1",1,"-47.68989044537754 , -189.30421229518072 , -177.37940870371028  PIR Sensörü"
+"PIEZO1",1," Piezo"

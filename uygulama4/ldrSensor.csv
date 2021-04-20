@@ -1,0 +1,9 @@
+﻿Ad,Miktar,Bileşen
+"D1",1,"Kırmızı LED"
+"R1",1,"230 Ω Rezistör"
+"R2",1,"1 kΩ Rezistör"
+"U2",1," Arduino Uno R3"
+"U3",1," LCD 16 x 2 "
+"Rpot1",1,"250 kΩ Potansiyometre"
+"R3",1,"220 Ω Rezistör"
+"R4",1," Fotorezistör"

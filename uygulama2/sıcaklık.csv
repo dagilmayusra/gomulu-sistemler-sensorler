@@ -1,0 +1,8 @@
+﻿Ad,Miktar,Bileşen
+"U2",1," Sıcaklık Sensörü [TMP36]"
+"D1",1,"Yeşil LED"
+"R1",1,"220 Ω Rezistör"
+"U3",1," Arduino Uno R3"
+"U4",1," LCD 16 x 2 "
+"Rpot1",1,"250 kΩ Potansiyometre"
+"R2",1,"220 Ω Rezistör"
